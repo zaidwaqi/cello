@@ -5,5 +5,5 @@
      "hostRequirements": {
          "cpus": 4
      },
-    "updateContentCommand": "dnf install gcc rpm-build rpm-devel rpmdevtools tree"
+    "updateContentCommand": "dnf install rpm-build rpm-devel rpmdevtools tree"
 }
