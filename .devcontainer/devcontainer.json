@@ -1,0 +1,8 @@
+{
+    // image being used
+     "image": "quay.io/centos/centos:stream8",
+    // set minimum cpu
+     "hostRequirements": {
+         "cpus": 4
+     }
+}
