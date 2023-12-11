@@ -4,6 +4,5 @@
     // set minimum cpu
      "hostRequirements": {
          "cpus": 4
-     },
-    "updateContentCommand": "dnf install rpm-build rpm-devel rpmdevtools tree"
+     }
 }
